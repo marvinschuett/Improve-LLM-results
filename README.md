@@ -1,4 +1,4 @@
-### Getting the best out of LLMs
+### Getting better LLM results
 The script highlights the decising factors that influence the performance of LLMs.
 
 Specifically, it explores three different techniques that share the same goal, namely to increase the performance of the chosen LLM. These techniques are:
